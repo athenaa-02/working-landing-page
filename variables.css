@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+
+
+:root{
+    --light_purple: #FCF8FF;
+    --green: #44FFA1;
+    --font-color: #fff;
+    --dark_purple: #24053E;
+    --grey:#584D62;
+    --font:"Fraunces", serif;
+}
